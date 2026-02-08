@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>center</key>
+	<dict>
+		<key>x</key>
+		<real>168.5</real>
+		<key>y</key>
+		<real>435</real>
+	</dict>
+	<key>loopInterval</key>
+	<real>0.10000000000000001</real>
+	<key>loopOn</key>
+	<false/>
+	<key>sizeLevel</key>
+	<integer>5</integer>
+	<key>slots</key>
+	<array>
+		<dict>
+			<key>slot</key>
+			<integer>1</integer>
+			<key>ts</key>
+			<real>784708556.97896099</real>
+			<key>x</key>
+			<real>0.19319030797192496</real>
+			<key>y</key>
+			<real>-0.98116130422357806</real>
+		</dict>
+		<dict>
+			<key>slot</key>
+			<integer>2</integer>
+			<key>ts</key>
+			<real>784707748.42731404</real>
+			<key>x</key>
+			<real>-0.99997828848973569</real>
+			<key>y</key>
+			<real>-0.0065895788286779011</real>
+		</dict>
+		<dict>
+			<key>slot</key>
+			<integer>3</integer>
+			<key>ts</key>
+			<real>784707748.43362105</real>
+			<key>x</key>
+			<real>-0.0044802216728920836</real>
+			<key>y</key>
+			<real>-0.99998996375651783</real>
+		</dict>
+		<dict>
+			<key>slot</key>
+			<integer>4</integer>
+			<key>ts</key>
+			<real>784707748.43961704</real>
+			<key>x</key>
+			<real>-0.99552004142970885</real>
+			<key>y</key>
+			<real>-0.094550764734033635</real>
+		</dict>
+	</array>
+	<key>slotsVisible</key>
+	<false/>
+</dict>
+</plist>
