@@ -215,6 +215,441 @@
 <key>編集     </key>
     <string>Edit     </string>
 
+<key>分裂/粒サイズ変更適応</key>
+    <string>Resize Buttons</string>
+
+<key>ポート</key>
+    <string>Hello</string>
+
+<key>分裂サイズ</key>
+    <string>Split Size</string>
+
+<key>粒サイズ</key>
+    <string>Shoot Size</string>
+
+<key>ニックネーム</key>
+    <string>Nickname Input Assistant</string>
+
+<key>フォント変更</key>
+    <string>Change Font</string>
+
+<key>画像変更</key>
+    <string>Change Images</string>
+
+<key>メニューアイコン </key>
+    <string>Menu Icon </string>
+
+<key>クイック退出ボタン</key>
+    <string>Quick Leave Button</string>
+
+<key>直線移動カーソルボタン</key>
+    <string>Straight Joystick Button</string>
+
+<key>粘着ボタン</key>
+    <string>Track Button</string>
+
+<key>マスタースプリットボタン</key>
+    <string>MasterSplit Button</string>
+
+<key>設定の保存/読み込み</key>
+    <string>Mods Settings</string>
+
+<key>キャッシュ削除</key>
+    <string>Clear Caches</string>
+
+<key>ドキュメント削除</key>
+    <string>Clear Documents</string>
+
+<key>ガッ</key>
+    <string>Gah</string>
+
+<key>再接続</key>
+    <string>Reconnect</string>
+
+<key>ログイン</key>
+    <string>Login Menu</string>
+
+<key>ぷーぷ</key>
+    <string>Poop</string>
+
+<key>English</key>
+    <string>English</string>
+
+<key>保存</key>
+    <string>Save</string>
+
+<key>一覧</key>
+    <string>List</string>
+
+<key>plistを読み込む</key>
+    <string>Import plist</string>
+
+<key>スキンを開く</key>
+    <string>Open Skins</string>
+
+<key>ひっつき虫</key>
+    <string>Auto Track</string>
+
+<key>ボタン  </key>
+    <string>Button  </string>
+
+<key>編集\u200D</key>
+    <string>Edit\u200D</string>
+<key>編集   </key>
+    <string>Edit   </string>
+<key>編集　　</key>
+    <string>Edit　　</string>
+<key>マスタースプリット </key>
+    <string>MasterSplit </string>
+
+<key>食われる細胞を無視</key>
+    <string>Ignore Biggger Cells</string>
+
+<key>小さすぎる細胞を無視</key>
+    <string>Ignore Too Small Cells</string>
+
+<key>敵より下</key>
+    <string>Below Cell</string>
+
+<key>パーティー </key>
+    <string>Party </string>
+<key>鯖警告</key>
+    <string>Mode Alert</string>
+
+<key>とげ</key>
+    <string>Virus</string>
+
+<key>分裂できる細胞(beta)</key>
+    <string>Splittable Cells (beta)</string>
+
+<key>分裂色を選択</key>
+    <string>Select Splittable Color</string>
+
+<key>とげー</key>
+    <string>Virus Warning</string>
+
+<key>サイズ確認　</key>
+    <string>Size Check</string>
+
+<key>サイズ確認</key>
+    <string>Size Check</string>
+
+<key>赤</key>
+    <string>Red</string>
+
+<key>黄</key>
+    <string>Yellow</string>
+
+<key>緑</key>
+    <string>GReeeeN</string>
+
+<key>笑</key>
+    <string>Black</string>
+
+<key>ぷらす</key>
+    <string>Plus</string>
+
+<key>マーキングは、お使いの端末によってはラグが発生する場合があります。</key>
+    <string>Marking may cause lag depending on your device.</string>
+
+<key>分裂色（16進）</key>
+    <string>Split Color (Hex)</string>
+
+<key>RRGGBB / #RRGGBB / 0xRRGGBB / RGB</key>
+    <string>RRGGBB / #RRGGBB / 0xRRGGBB / RGB</string>
+
+<key>キャンセル</key>
+    <string>Cancel</string>
+
+
+<key>ファーム</key>
+    <string>Farm</string>
+
+<key>自動分裂</key>
+    <string>Auto Split</string>
+
+<key>自動で抜ける(時間)</key>
+    <string>Auto Leave (Time)</string>
+
+<key>自動で抜ける(スコア)</key>
+    <string>Auto Leave (Score)</string>
+
+<key>ターゲット</key>
+    <string>Targets</string>
+
+<key>自動プレイ</key>
+    <string>Auto Play</string>
+
+<key>ペレット</key>
+    <string>Pellets</string>
+
+<key>トークン </key>
+    <string>Tokens</string>
+
+<key>粒</key>
+    <string>Cells</string>
+
+<key>棘</key>
+    <string>Virus</string>
+
+<key>プレイヤー</key>
+    <string>Players</string>
+
+<key>クラシック­</key>
+    <string>Classic</string>
+
+<key>バースト­</key>
+    <string>Burst</string>
+
+<key>ソロレベリング</key>
+    <string>Solo Levelling</string>
+
+<key>desc:メニューアイコン</key><string>Hide mod icon in arena</string>
+
+<key>desc:ランキング修正</key><string>Fix Leaderboard</string>
+
+<key>desc:白枠</key><string>Set the skin and pellet colors to gray</string>
+
+<key>desc:黒枠</key><string>Set the skin and pellet colors to gray</string>
+
+<key>desc:絵文字</key><string>Hide Emoji</string>
+
+<key>desc:害悪文字</key><string>Hide the black cross nickname</string>
+
+<key>desc:トークン</key><string>Token to Pellets</string>
+
+<key>desc:非表示 </key><string>Hide custom skins</string>
+
+<key>desc:ランダムスキン</key><string>Replace custom skins with a random</string>
+
+<key>desc:パーティー外のみ</key><string>only custom skins from players outside your party are hidden or replaced with random ones</string>
+
+<key>desc:デイリーリワード</key><string>Hide Daily Rewards</string>
+
+<key>desc:デイリークエスト</key><string>Hide Daily Quests</string>
+
+<key>desc:ポーション</key><string>Hide Potions</string>
+
+<key>desc:コンテニュー</key><string>Hide Continue Playing</string>
+
+<key>desc:レベルアップ</key><string>Hide Levelups</string>
+
+<key>desc:カーソル(透明)</key><string>Hide Joystick</string>
+
+<key>desc:粒＆分裂(透明)</key><string>Hide Shoot and Split</string>
+
+<key>desc:ランキング</key><string>Hide Leaderboard</string>
+
+<key>desc:ポーズ＆絵文字</key><string>Hide Pause and EmojiWidget</string>
+
+<key>desc:スコア</key><string>Hide ScoreLabel</string>
+
+<key>desc:トークンカウンター</key><string>Hide TokenCounter</string>
+
+<key>desc:スケルトン</key><string>Hide only the white elements, such as join Dropdown</string>
+
+<key>desc:パーティー参加</key><string>Hide Join Dropdown</string>
+
+<key>desc:ゲスト参加</key><string>Hide Guest Join Dropdown</string>
+
+<key>desc:鯖の背景変更</key><string>You can change the arena background to an image</string>
+
+<key>desc:カンスト</key><string>;;</string>
+
+<key>desc:120FPSカーソル</key><string>smooth</string>
+
+<key>desc:ジョイントアリーナ</key><string>Joining Arena to Reconnect</string>
+
+<key>desc:棘透かし</key><string>Virus Opacity</string>
+
+<key>desc:エイムライン</key><string>AimLine</string>
+
+<key>desc:メインページへ戻る</key><string>page1</string>
+
+
+
+</dict>
+</plist>    <string>Arena HUD</string>
+<key>通知</key>
+    <string>Dropdown</string>
+
+<key>直線移動</key>
+    <string>Straight Movement</string>
+<key>クイック退出</key>
+    <string>Quick Leave</string>
+<key>マーキング</key>
+    <string>Markings</string>
+<key>ラベル</key>
+    <string>Labels</string>
+<key>コントロール</key>
+    <string>Controls</string>
+
+<key>スキンスクロール</key>
+    <string>Skins Scrolls</string>
+
+<key>メインメニューへ戻る</key>
+    <string>Main Menu</string>
+<key>タイトル画面を表示します（鯖からは抜けません）。</key>
+    <string>Show Main Menu (You will not exit the Lobby).</string>
+<key>ランキング修正</key>
+    <string>Fix Leaderboard</string>
+
+<key>ボット</key>
+    <string>( ´･･)ﾉ(._.`)</string>
+<key>開始</key>
+    <string>ಠ_ಠ</string>
+<key>停止</key>
+    <string>q(≧▽≦q)</string>
+
+<key>パーティー参加 </key>
+    <string>(○｀ 3′○)</string>
+
+<key>認証</key>
+    <string>@qztrh</string>
+
+<key>メニューアイコン</key>
+    <string>Menu Icon</string>
+<key>白枠</key>
+    <string>White Outline</string>
+<key>黒枠</key>
+    <string>Black Outline</string>
+<key>絵文字</key>
+    <string>Emoji</string>
+<key>害悪文字</key>
+    <string>Problematic Nickname</string>
+<key>トークン</key>
+    <string>Tokens</string>
+
+<key>非表示 </key>
+    <string>Hide </string>
+
+<key>ランダムスキン</key>
+    <string>Random Skins</string>
+<key>パーティー外のみ</key>
+    <string>Outside Party Only</string>
+
+<key>デイリーリワード</key>
+    <string>Daily Rewards</string>
+<key>デイリークエスト</key>
+    <string>Daily Quests</string>
+<key>ポーション</key>
+    <string>Potions</string>
+<key>コンテニュー</key>
+    <string>Continue Playing</string>
+<key>レベルアップ</key>
+    <string>Level Up</string>
+
+<key>カーソル(透明)</key>
+    <string>Joystick</string>
+<key>粒＆分裂(透明)</key>
+    <string>Split and Shoot</string>
+<key>ランキング</key>
+    <string>Leaderboard</string>
+<key>ポーズ＆絵文字</key>
+    <string>Pause</string>
+<key>スコア</key>
+    <string>Score/Mass</string>
+<key>トークンカウンター</key>
+    <string>Token Counter</string>
+
+<key>スケルトン</key>
+    <string>Skeleton</string>
+<key>パーティー参加</key>
+    <string>Player Joins Party</string>
+<key>ゲスト参加</key>
+    <string>Guest Joins Party</string>
+
+<key>ループ設定</key>
+    <string>Loop Settings</string>
+
+<key>鯖の背景変更</key>
+    <string>Arena Background</string>
+
+<key>カンスト</key>
+    <string>Max Out</string>
+
+<key>120FPSカーソル</key>
+    <string>Smooth Joystick</string>
+
+<key>ジョイントアリーナ</key>
+    <string>Joining Arena</string>
+
+<key>棘透かし</key>
+    <string>Virus Opacity</string>
+
+<key>エイムライン</key>
+    <string>Aim Line</string>
+
+<key>ボタン</key>
+    <string>Button</string>
+<key>編集</key>
+    <string>Edit</string>
+<key>ポーズボタン</key>
+    <string>Pause Button</string>
+<key>強制メインメニュー</key>
+    <string>Force Main Menu</string>
+
+<key>タップ回数</key>
+    <string>Tap Count</string>
+
+    <key>タップ回数: 1</key>
+    <string>Tap: 1</string>
+
+    <key>タップ回数: 2</key>
+    <string>Tap: 2</string>
+
+    <key>タップ回数: 3</key>
+    <string>Tap: 3</string>
+
+<key>ボタン </key>
+    <string>Button </string>
+<key>編集 </key>
+    <string>Edit </string>
+
+<key>透明化</key>
+    <string>Invisible</string>
+<key>カーソル非表示</key>
+    <string>Hide Joystick Button</string>
+<key>色丸非表示</key>
+    <string>Hide Move Button</string>
+<key>ループ</key>
+    <string>Loop</string>
+
+<key>上↑</key>
+    <string>Up ↑</string>
+<key>下↓</key>
+    <string>Down ↓</string>
+<key>右→</key>
+    <string>Right →</string>
+<key>左←</key>
+    <string>Left ←</string>
+
+<key>パーティー</key>
+    <string>Party</string>
+<key>マスラベルサイズ</key>
+    <string>MassLabel Size</string>
+<key>合体時間</key>
+    <string>Merge Timer</string>
+<key>生存時間</key>
+    <string>Survival Time</string>
+<key>ダイナミックスコア</key>
+    <string>Dynamic Score</string>
+
+<key>トタマス(ズレあり)</key>
+    <string>Total Mass (Offset)</string>
+
+<key>一番大きい細胞のスコア</key>
+    <string>Largest Cell Score</string>
+
+<key>カスタムラベル</key>
+    <string>Custom Label</string>
+
+<key>カスタムラベル </key>
+    <string>Custom Label </string>
+
+<key>編集     </key>
+    <string>Edit     </string>
+
 <key>サイズ変更</key>
     <string>Resize Buttons</string>
 
@@ -469,4 +904,5 @@
 
 
 </dict>
+
 </plist>
