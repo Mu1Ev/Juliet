@@ -476,6 +476,12 @@
 Yellow (sizes overlap even if you split)
 Green (you can eat the enemy by splitting)</string>
 
+<key>desc:赤</key><string>enemy can eat you by splitting</string>
+
+<key>desc:黄</key><string>sizes overlap even if you split</string>
+
+<key>desc:緑</key><string>you can eat the enemy by splitting</string>
+
 <key>desc:ぷらす</key><string>Shows the missing mass needed to turn green (for bases, it’s roughly half of the displayed value as mass; estimate)</string>
 
 <key>desc:ログイン</key><string>Shows login menu</string>
@@ -543,7 +549,7 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:ボタン</key><string>No description yet</string>
 
-<key>desc:編集</key><string>No description yet</string>
+<key>desc:編集</key><string>Edit: drag to move, double tap to resize</string>
 
 <key>desc:ポーズボタン</key><string>No description yet</string>
 
@@ -557,25 +563,25 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:タップ回数: 3</key><string>No description yet</string>
 
-<key>desc:編集 </key><string>No description yet</string>
+<key>desc:編集 </key><string>Edit: drag to move, double tap to resize</string>
 
 <key>desc:透明化</key><string>No description yet</string>
 
-<key>desc:カーソル非表示</key><string>No description yet</string>
+<key>desc:カーソル非表示</key><string>Hide</string>
 
-<key>desc:色丸非表示</key><string>No description yet</string>
+<key>desc:色丸非表示</key><string>Hide</string>
 
-<key>desc:ループ</key><string>No description yet</string>
+<key>desc:ループ</key><string>Loop /s</string>
 
-<key>desc:上↑</key><string>No description yet</string>
+<key>desc:上↑</key><string>up</string>
 
-<key>desc:下↓</key><string>No description yet</string>
+<key>desc:下↓</key><string>under</string>
 
-<key>desc:右→</key><string>No description yet</string>
+<key>desc:右→</key><string>right</string>
 
-<key>desc:左←</key><string>No description yet</string>
+<key>desc:左←</key><string>left</string>
 
-<key>desc:パーティー</key><string>No description yet</string>
+<key>desc:パーティー</key><string>Shows code below the friends counter</string>
 
 <key>desc:マスラベルサイズ</key><string>No description yet</string>
 
@@ -585,7 +591,7 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:ダイナミックスコア</key><string>No description yet</string>
 
-<key>desc:トタマス(ズレあり)</key><string>No description yet</string>
+<key>desc:トタマス(ズレあり)</key><string>real time total mass eaten (not exact!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)</string>
 
 <key>desc:一番大きい細胞のスコア</key><string>No description yet</string>
 
@@ -593,7 +599,7 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:カスタムラベル </key><string>No description yet</string>
 
-<key>desc:編集     </key><string>No description yet</string>
+<key>desc:編集     </key><string>Edit: drag to move, pinch to resize</string>
 
 <key>desc:分裂/粒サイズ変更適応</key><string>No description yet</string>
 
@@ -645,11 +651,11 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:ボタン  </key><string>No description yet</string>
 
-<key>desc:編集\u200D</key><string>No description yet</string>
+<key>desc:編集\u200D</key><string>Edit: drag to move, double tap to resize</string>
 
-<key>desc:編集   </key><string>No description yet</string>
+<key>desc:編集   </key><string>Edit: drag to move, double tap to resize</string>
 
-<key>desc:編集　　</key><string>No description yet</string>
+<key>desc:編集　　</key><string>Edit: drag to move, double tap to resize</string>
 
 <key>desc:マスタースプリット </key><string>No description yet</string>
 
@@ -668,14 +674,6 @@ Green (you can eat the enemy by splitting)</string>
 <key>desc:分裂色を選択</key><string>No description yet</string>
 
 <key>desc:サイズ確認　</key><string>No description yet</string>
-
-<key>desc:赤</key><string>No description yet</string>
-
-<key>desc:黄</key><string>No description yet</string>
-
-<key>desc:緑</key><string>No description yet</string>
-
-<key>desc:笑</key><string>No description yet</string>
 
 <key>desc:キャンセル</key><string>No description yet</string>
 
