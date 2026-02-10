@@ -480,123 +480,212 @@
 
 
 <key>desc:お気に入り</key><string>No description yet</string>
+
 <key>desc:メイン</key><string>No description yet</string>
+
 <key>desc:ボット</key><string>No description yet</string>
+
 <key>desc:非表示</key><string>No description yet</string>
+
 <key>desc:アリーナ</key><string>No description yet</string>
+
 <key>desc:マスタースプリット</key><string>No description yet</string>
+
 <key>desc:その他</key><string>No description yet</string>
+
 <key>desc:メインメニュー</key><string>No description yet</string>
+
 <key>desc:オフラインクエスト</key><string>No description yet</string>
+
 <key>desc:メニュー透明度</key><string>No description yet</string>
+
 <key>desc:カスタムスキン</key><string>No description yet</string>
+
 <key>desc:ポップアップ</key><string>No description yet</string>
+
 <key>desc:アリーナHUD</key><string>No description yet</string>
+
 <key>desc:通知</key><string>No description yet</string>
+
 <key>desc:直線移動</key><string>No description yet</string>
+
 <key>desc:クイック退出</key><string>No description yet</string>
+
 <key>desc:マーキング</key><string>No description yet</string>
+
 <key>desc:ラベル</key><string>No description yet</string>
+
 <key>desc:コントロール</key><string>No description yet</string>
+
 <key>desc:スキンスクロール</key><string>No description yet</string>
+
 <key>desc:メインメニューへ戻る</key><string>No description yet</string>
+
 <key>desc:タイトル画面を表示します（鯖からは抜けません）。</key><string>No description yet</string>
+
 <key>desc:開始</key><string>No description yet</string>
+
 <key>desc:停止</key><string>No description yet</string>
+
 <key>desc:パーティー参加 </key><string>No description yet</string>
+
 <key>desc:認証</key><string>No description yet</string>
+
 <key>desc:ループ設定</key><string>No description yet</string>
+
 <key>desc:ボタン</key><string>No description yet</string>
+
 <key>desc:編集</key><string>No description yet</string>
+
 <key>desc:ポーズボタン</key><string>No description yet</string>
+
 <key>desc:強制メインメニュー</key><string>No description yet</string>
+
 <key>desc:タップ回数</key><string>No description yet</string>
+
 <key>desc:タップ回数: 1</key><string>No description yet</string>
+
 <key>desc:タップ回数: 2</key><string>No description yet</string>
+
 <key>desc:タップ回数: 3</key><string>No description yet</string>
+
 <key>desc:編集 </key><string>No description yet</string>
+
 <key>desc:透明化</key><string>No description yet</string>
+
 <key>desc:カーソル非表示</key><string>No description yet</string>
+
 <key>desc:色丸非表示</key><string>No description yet</string>
+
 <key>desc:ループ</key><string>No description yet</string>
+
 <key>desc:上↑</key><string>No description yet</string>
+
 <key>desc:下↓</key><string>No description yet</string>
+
 <key>desc:右→</key><string>No description yet</string>
+
 <key>desc:左←</key><string>No description yet</string>
+
 <key>desc:パーティー</key><string>No description yet</string>
+
 <key>desc:マスラベルサイズ</key><string>No description yet</string>
+
 <key>desc:合体時間</key><string>No description yet</string>
+
 <key>desc:生存時間</key><string>No description yet</string>
+
 <key>desc:ダイナミックスコア</key><string>No description yet</string>
+
 <key>desc:トタマス(ズレあり)</key><string>No description yet</string>
+
 <key>desc:一番大きい細胞のスコア</key><string>No description yet</string>
+
 <key>desc:カスタムラベル</key><string>No description yet</string>
+
 <key>desc:カスタムラベル </key><string>No description yet</string>
+
 <key>desc:編集     </key><string>No description yet</string>
+
 <key>desc:分裂/粒サイズ変更適応</key><string>No description yet</string>
+
 <key>desc:ポート</key><string>No description yet</string>
+
 <key>desc:分裂サイズ</key><string>No description yet</string>
+
 <key>desc:粒サイズ</key><string>No description yet</string>
+
 <key>desc:ニックネーム</key><string>No description yet</string>
+
 <key>desc:フォント変更</key><string>No description yet</string>
+
 <key>desc:画像変更</key><string>No description yet</string>
+
 <key>desc:メニューアイコン </key><string>No description yet</string>
+
 <key>desc:クイック退出ボタン</key><string>No description yet</string>
+
 <key>desc:直線移動カーソルボタン</key><string>No description yet</string>
+
 <key>desc:粘着ボタン</key><string>No description yet</string>
+
 <key>desc:マスタースプリットボタン</key><string>No description yet</string>
+
 <key>desc:設定の保存/読み込み</key><string>No description yet</string>
+
 <key>desc:キャッシュ削除</key><string>No description yet</string>
+
 <key>desc:ドキュメント削除</key><string>No description yet</string>
+
 <key>desc:ガッ</key><string>No description yet</string>
+
 <key>desc:再接続</key><string>No description yet</string>
+
 <key>desc:ぷーぷ</key><string>No description yet</string>
+
 <key>desc:English</key><string>No description yet</string>
+
 <key>desc:保存</key><string>No description yet</string>
+
 <key>desc:一覧</key><string>No description yet</string>
+
 <key>desc:plistを読み込む</key><string>No description yet</string>
+
 <key>desc:スキンを開く</key><string>No description yet</string>
+
 <key>desc:ひっつき虫</key><string>No description yet</string>
+
 <key>desc:ボタン  </key><string>No description yet</string>
+
 <key>desc:編集\u200D</key><string>No description yet</string>
+
 <key>desc:編集   </key><string>No description yet</string>
+
 <key>desc:編集　　</key><string>No description yet</string>
+
 <key>desc:マスタースプリット </key><string>No description yet</string>
+
 <key>desc:食われる細胞を無視</key><string>No description yet</string>
+
 <key>desc:小さすぎる細胞を無視</key><string>No description yet</string>
+
 <key>desc:敵より下</key><string>No description yet</string>
+
 <key>desc:パーティー </key><string>No description yet</string>
+
 <key>desc:とげ</key><string>No description yet</string>
+
 <key>desc:分裂できる細胞(beta)</key><string>No description yet</string>
+
 <key>desc:分裂色を選択</key><string>No description yet</string>
+
 <key>desc:サイズ確認　</key><string>No description yet</string>
+
 <key>desc:サイズ確認</key><string>No description yet</string>
+
 <key>desc:赤</key><string>No description yet</string>
+
 <key>desc:黄</key><string>No description yet</string>
+
 <key>desc:緑</key><string>No description yet</string>
+
 <key>desc:笑</key><string>No description yet</string>
+
 <key>desc:ぷらす</key><string>No description yet</string>
+
 <key>desc:マーキングは、お使いの端末によってはラグが発生する場合があります。</key><string>No description yet</string>
+
 <key>desc:分裂色（16進）</key><string>No description yet</string>
+
 <key>desc:RRGGBB / #RRGGBB / 0xRRGGBB / RGB</key><string>No description yet</string>
+
 <key>desc:キャンセル</key><string>No description yet</string>
+
 <key>desc:トークン </key><string>No description yet</string>
+
 <key>desc:クラシック­</key><string>No description yet</string>
+
 <key>desc:バースト­</key><string>No description yet</string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
