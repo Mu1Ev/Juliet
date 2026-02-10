@@ -55,7 +55,7 @@
 <key>メインメニューへ戻る</key>
     <string>Main Menu</string>
 <key>タイトル画面を表示します（鯖からは抜けません）。</key>
-    <string>Show Main Menu (You will not exit the Lobby).</string>
+    <string>Show Main Menu (You will not exit Lobby).</string>
 <key>ランキング修正</key>
     <string>Fix Leaderboard</string>
 
@@ -408,14 +408,14 @@
 
 <key>desc:ランキング修正</key><string>Fix Leaderboard</string>
 
-<key>desc:白枠</key><string>Set the skin and pellet colors to gray</string>
+<key>desc:白枠</key><string>Sets white skin and pellet colors to gray</string>
 
-<key>desc:黒枠</key><string>Set the skin and pellet colors to gray</string>
+<key>desc:黒枠</key><string>Sets black skin and pellet colors to gray</string>
 
 <key>desc:絵文字</key><string>Hide Emoji</string>
 
-<key>desc:害悪文字</key><string>Hide the black cross nickname</string>
-
+<key>desc:害悪文字</key><string>Hides the black “＋” on nicknames</string>
+✙
 <key>desc:トークン</key><string>Token to Pellets</string>
 
 <key>desc:非表示 </key><string>Hide custom skins</string>
@@ -446,13 +446,13 @@
 
 <key>desc:トークンカウンター</key><string>Hide TokenCounter</string>
 
-<key>desc:スケルトン</key><string>Hide only the white elements, such as join Dropdown</string>
+<key>desc:スケルトン</key><string>Hides only white elements, such as join dropdown</string>
 
 <key>desc:パーティー参加</key><string>Hide Join Dropdown</string>
 
 <key>desc:ゲスト参加</key><string>Hide Guest Join Dropdown</string>
 
-<key>desc:鯖の背景変更</key><string>You can change the arena background to an image</string>
+<key>desc:鯖の背景変更</key><string>Changes arena background to an image</string>
 
 <key>desc:カンスト</key><string>;;</string>
 
@@ -470,7 +470,9 @@
 
 <key>desc:ボタン </key><string>Distant cells move without being pulled in. You can still perform a LINESPLIT even when you have two or more</string>
 
-<key>desc:メインページへ戻る</key><string>page1</string>
+<key>desc:鯖警告</key><string>Alert when joining a different mode</string>
+
+<key>desc:ログイン</key><string>Shows login menu</string>
 
 <key>desc:ファーム</key><string>"autofarm.deb" file is required</string>
 <key>desc:自動分裂</key><string>"autofarm.deb" file is required</string>
