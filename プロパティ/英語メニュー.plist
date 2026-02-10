@@ -466,13 +466,37 @@
 
 <key>desc:メインページへ戻る</key><string>page1</string>
 
-<key>desc:とげー</key><string>Viruses that pop in two hits are shown in blue, and viruses that pop in one hit are shown in red</string>
+<key>desc:とげー</key><string>Viruses that pop in two hits appear blue, and those that pop in one hit appear re</string>
 
 <key>desc:ボタン </key><string>Distant cells move without being pulled in. You can still perform a LINESPLIT even when you have two or more</string>
 
 <key>desc:鯖警告</key><string>Alert when joining a different mode</string>
 
 <key>desc:ログイン</key><string>Shows login menu</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <key>desc:ファーム</key><string>"autofarm.deb" file is required</string>
 <key>desc:自動分裂</key><string>"autofarm.deb" file is required</string>
