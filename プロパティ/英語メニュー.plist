@@ -673,9 +673,13 @@
 
 <key>desc:ぷらす</key><string>No description yet</string>
 
-<key>desc:キャンセル</key><string>No description yet</string>
+<key>desc:マーキングは、お使いの端末によってはラグが発生する場合があります。</key><string>No description yet</string>
 
-<key>desc:トークン </key><string>No description yet</string>
+<key>desc:分裂色（16進）</key><string>No description yet</string>
+
+<key>desc:RRGGBB / #RRGGBB / 0xRRGGBB / RGB</key><string>No description yet</string>
+
+<key>desc:キャンセル</key><string>No description yet</string>
 
 <key>desc:クラシック­</key><string>No description yet</string>
 
@@ -692,7 +696,7 @@
 <key>desc:ターゲット</key><string>"autofarm.deb" file is required</string>
 <key>desc:自動プレイ</key><string>"autofarm.deb" file is required</string>
 <key>desc:ペレット</key><string>"autofarm.deb" file is required</string>
-<key>desc:トークン</key><string>"autofarm.deb" file is required</string>
+<key>desc:トークン </key><string>"autofarm.deb" file is required</string>
 <key>desc:粒</key><string>"autofarm.deb" file is required</string>
 <key>desc:棘</key><string>"autofarm.deb" file is required</string>
 <key>desc:プレイヤー</key><string>"autofarm.deb" file is required</string>
@@ -712,4 +716,3 @@
 
 </dict>
 </plist>
-
