@@ -269,6 +269,9 @@
 <key>ログイン</key>
     <string>Login Menu</string>
 
+<key>地域</key>
+    <string>Region Menu</string>
+
 <key>ぷーぷ</key>
     <string>Poop</string>
 
@@ -680,6 +683,8 @@ Green (you can eat the enemy by splitting)</string>
 <key>desc:クラシック­</key><string>No description yet</string>
 
 <key>desc:バースト­</key><string>No description yet</string>
+
+
 
 
 
