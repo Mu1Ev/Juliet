@@ -472,7 +472,15 @@
 
 <key>desc:鯖警告</key><string>Alert when joining a different mode</string>
 
+<key>desc:サイズ確認</key><string>Red (enemy can eat you by splitting)
+Yellow (sizes overlap even if you split)
+Green (you can eat the enemy by splitting)</string>
+
+<key>desc:ぷらす</key><string>Shows the missing mass needed to turn green (for bases, it’s roughly half of the displayed value as mass; estimate)</string>
+
 <key>desc:ログイン</key><string>Shows login menu</string>
+
+
 
 
 
@@ -660,8 +668,6 @@
 <key>desc:分裂色を選択</key><string>No description yet</string>
 
 <key>desc:サイズ確認　</key><string>No description yet</string>
-
-<key>desc:サイズ確認</key><string>No description yet</string>
 
 <key>desc:赤</key><string>No description yet</string>
 
