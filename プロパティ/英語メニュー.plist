@@ -130,6 +130,9 @@
 <key>鯖の背景変更</key>
     <string>Arena Background</string>
 
+<key>鯖背景透明度</key>
+    <string>Arena Background Opacity</string>
+
 <key>カンスト</key>
     <string>Max Out</string>
 
