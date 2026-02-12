@@ -39,7 +39,7 @@
     <string>Dropdown</string>
 
 <key>直線移動</key>
-    <string>Straight Movement</string>
+    <string>LINESPLIT</string>
 <key>クイック退出</key>
     <string>Quick Leave</string>
 <key>マーキング</key>
@@ -243,7 +243,7 @@
     <string>Quick Leave Button</string>
 
 <key>直線移動カーソルボタン</key>
-    <string>Straight Joystick Button</string>
+    <string>LINESPLIT Joystick Button</string>
 
 <key>粘着ボタン</key>
     <string>Track Button</string>
