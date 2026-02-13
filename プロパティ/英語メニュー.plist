@@ -307,6 +307,10 @@
     <string>Edit　　</string>
 <key>マスタースプリット </key>
     <string>MasterSplit </string>
+<key>粒チ</key>
+    <string>Macro</string>
+<key>敵のスコア</key>
+    <string>Off</string>
 
 <key>食われる細胞を無視</key>
     <string>Ignore Biggger Cells</string>
