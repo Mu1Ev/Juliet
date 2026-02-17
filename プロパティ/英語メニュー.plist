@@ -313,7 +313,7 @@
     <string>Macro</string>
 
 <key>自己チャ </key>
-    <string>CenterTap Self Feed </string>
+    <string>Self Feed</string>
 <key>自己チャ</key>
     <string>CenterTap Self Feed</string>
 <key>範囲設定</key>
@@ -735,4 +735,5 @@ Green (you can eat the enemy by splitting)</string>
 
 
 </dict>
+
 </plist>
