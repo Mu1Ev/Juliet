@@ -144,6 +144,9 @@
 <key>ジョイントアリーナ</key>
     <string>Joining Arena</string>
 
+<key>壁線</key>
+    <string>Arena Outline</string>
+
 <key>棘透かし</key>
     <string>Virus Opacity</string>
 
@@ -313,7 +316,7 @@
     <string>Macro</string>
 
 <key>自己チャ </key>
-    <string>Self Feed</string>
+    <string>CenterTap Self Feed </string>
 <key>自己チャ</key>
     <string>CenterTap Self Feed</string>
 <key>範囲設定</key>
@@ -735,5 +738,4 @@ Green (you can eat the enemy by splitting)</string>
 
 
 </dict>
-
 </plist>
