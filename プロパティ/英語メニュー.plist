@@ -322,10 +322,12 @@
     <string>CenterTap Self Feed </string>
 <key>中央タップ自己チャ</key>
     <string>CenterTap Self Feed</string>
-<key>範囲設定</key>
-    <string>Set Range</string>
-<key>範囲確認</key>
-    <string>Show Range</string>
+<key>ポーズタップ自己チャ</key>
+    <string>Pause To Self Feed</string>
+<key>中央タップ範囲設定</key>
+    <string>CenterTap Set Range</string>
+<key>中央タップ囲確認</key>
+    <string>CenterTap Show Range</string>
 
 <key>敵のスコア</key>
     <string>Off</string>
