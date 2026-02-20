@@ -256,7 +256,7 @@
 <key>直線移動カーソルボタン</key>
     <string>LINESPLIT Joystick Button</string>
 
-<key>粘着ボタン</key>
+<key>ひっつき虫ボタン</key>
     <string>Track Button</string>
 
 <key>マスタースプリットボタン</key>
@@ -304,7 +304,7 @@
 <key>ひっつき虫</key>
     <string>Auto Track</string>
 
-<key>ボタン  </key>
+<key>直線移動ボタン</key>
     <string>Button  </string>
 
 <key>編集\u200D</key>
@@ -653,7 +653,7 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:直線移動カーソルボタン</key><string>No description yet</string>
 
-<key>desc:粘着ボタン</key><string>No description yet</string>
+<key>desc:ひっつき虫ボタン</key><string>No description yet</string>
 
 <key>desc:マスタースプリットボタン</key><string>No description yet</string>
 
@@ -681,7 +681,7 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:ひっつき虫</key><string>No description yet</string>
 
-<key>desc:ボタン  </key><string>No description yet</string>
+<key>desc:直線移動ボタン</key><string>No description yet</string>
 
 <key>desc:編集\u200D</key><string>Edit: drag to move, double tap to resize</string>
 
