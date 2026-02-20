@@ -256,7 +256,7 @@
 <key>直線移動カーソルボタン</key>
     <string>LINESPLIT Joystick Button</string>
 
-<key>ひっつき虫ボタン</key>
+<key>粘着ボタン</key>
     <string>Track Button</string>
 
 <key>マスタースプリットボタン</key>
@@ -653,7 +653,7 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:直線移動カーソルボタン</key><string>No description yet</string>
 
-<key>desc:ひっつき虫ボタン</key><string>No description yet</string>
+<key>desc:粘着ボタン</key><string>No description yet</string>
 
 <key>desc:マスタースプリットボタン</key><string>No description yet</string>
 
