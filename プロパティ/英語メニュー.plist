@@ -317,9 +317,11 @@
     <string>MasterSplit </string>
 <key>粒チ</key>
     <string>Macro</string>
+<key>ボムへい</key>
+    <string>Bob-omb</string>
 
-<key>自己チャ </key>
-    <string>CenterTap Self Feed </string>
+<key>自己チャ</key>
+    <string>Self Feed</string>
 <key>中央タップ自己チャ</key>
     <string>CenterTap Self Feed</string>
 <key>ポーズタップ自己チャ</key>
