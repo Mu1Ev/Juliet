@@ -301,6 +301,9 @@
 <key>plistを読み込む</key>
     <string>Import plist</string>
 
+<key>plistを保存</key>
+    <string>Export plist</string>
+
 <key>スキンを開く</key>
     <string>Open Skins</string>
 
