@@ -418,6 +418,15 @@
 <key>自動プレイ</key>
     <string>Auto Play</string>
 
+<key>優先順位</key>
+    <string>Priorities</string>
+
+<key>範囲確認</key>
+    <string>Show Range </string>
+
+<key>全部オフ</key>
+    <string>Turn off all</string>
+
 <key>ペレット</key>
     <string>Pellets</string>
 
