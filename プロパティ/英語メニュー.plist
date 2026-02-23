@@ -138,11 +138,14 @@
 <key>鯖の背景透明度</key>
     <string>Arena Background Opacity</string>
 
-<key>カンスト</key>
-    <string>Max Out</string>
+<key>強制カンスト</key>
+    <string>Force Max Out</string>
 
 <key>120FPSカーソル</key>
     <string>Smooth Joystick</string>
+
+<key>不透明カーソル</key>
+    <string>Opaque Joystick</string>
 
 <key>ジョイントアリーナ</key>
     <string>Joining Arena</string>
@@ -237,6 +240,9 @@
 
 <key>粒サイズ</key>
     <string>Shoot Size</string>
+
+<key>カーソルサイズ</key>
+    <string>Joystick Size</string>
 
 <key>ニックネーム</key>
     <string>Nickname Input Assistant</string>
