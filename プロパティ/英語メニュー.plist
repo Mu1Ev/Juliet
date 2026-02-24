@@ -56,8 +56,6 @@
 
 <key>メインメニューへ戻る</key>
     <string>Main Menu</string>
-<key>タイトル画面を表示します（鯖からは抜けません）。</key>
-    <string>Show Main Menu (You will not exit Lobby).</string>
 <key>ランキング修正</key>
     <string>Fix Leaderboard</string>
 
@@ -300,8 +298,8 @@
 <key>設定用鯖</key>
     <string>Settings Lobby</string>
 
-<key>地域</key>
-    <string>Region Menu</string>
+<key>地域変更</key>
+    <string>Change Region</string>
 
 <key>ぷーぷ</key>
     <string>Poop</string>
