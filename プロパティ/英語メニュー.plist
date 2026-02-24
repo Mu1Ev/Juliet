@@ -25,9 +25,6 @@
 <key>メインページへ戻る</key>
     <string>Back Main Page</string>
 
-<key>オフラインクエスト</key>
-    <string>Offline Quest</string>
-
 <key>2カラムメニュー</key>
     <string>2Column Menu</string>
 
@@ -102,8 +99,16 @@
     <string>Daily Rewards</string>
 <key>デイリークエスト</key>
     <string>Daily Quests</string>
+<key>オフラインクエスト</key>
+    <string>Offline Quest</string>
+<key>シーズン</key>
+    <string>Season</string>
+<key>アドベンチャー</key>
+    <string>Adventure</string>
 <key>ポーション</key>
     <string>Potions</string>
+<key>ローディング</key>
+    <string>Loading</string>
 <key>コンテニュー</key>
     <string>Continue Game</string>
 <key>レベルアップ</key>
@@ -291,6 +296,9 @@
 
 <key>ログイン</key>
     <string>Login Menu</string>
+
+<key>設定用鯖</key>
+    <string>Settings Lobby</string>
 
 <key>地域</key>
     <string>Region Menu</string>
