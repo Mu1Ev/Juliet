@@ -141,6 +141,9 @@
 <key>強制カンスト</key>
     <string>Force Max Out</string>
 
+<key>強制カンスト</key>
+    <string>Force Max Out Sensitivity</string>
+
 <key>120FPSカーソル</key>
     <string>Smooth Joystick</string>
 
