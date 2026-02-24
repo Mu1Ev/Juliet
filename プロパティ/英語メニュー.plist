@@ -105,6 +105,8 @@
     <string>Adventure</string>
 <key>ポーション</key>
     <string>Potions</string>
+<key>オファー</key>
+    <string>Disable Offers</string>
 <key>ローディング</key>
     <string>Loading</string>
 <key>コンテニュー</key>
@@ -276,6 +278,9 @@
 
 <key>粒チ</key>
     <string>Macro Button</string>
+
+<key>粒チボタン</key>
+    <string>Macro Button </string>
 
 <key>設定の保存/読み込み</key>
     <string>Mods Settings</string>
