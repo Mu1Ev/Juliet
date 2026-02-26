@@ -364,7 +364,7 @@
     <string>CenterTap Show Range</string>
 
 <key>敵のスコア</key>
-    <string>Off</string>
+    <string>Enemy score</string>
 
 <key>食われる細胞を無視</key>
     <string>Ignore Biggger Cells</string>
@@ -397,6 +397,9 @@
 
 <key>サイズ確認</key>
     <string>Size Check</string>
+
+<key>アウトラインモード</key>
+    <string>Outline mode</string>
 
 <key>赤</key>
     <string>Red</string>
