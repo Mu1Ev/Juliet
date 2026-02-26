@@ -217,6 +217,8 @@
 
 <key>パーティー</key>
     <string>Party</string>
+<key>矢印距離</key>
+    <string>Friend Distance</string>
 <key>マスラベルサイズ</key>
     <string>MassLabel Size</string>
 <key>合体時間</key>
