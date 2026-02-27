@@ -345,8 +345,8 @@
     <string>Edit   </string>
 <key>編集　　</key>
     <string>Edit　　</string>
-<key>マスタースプリット </key>
-    <string>MasterSplit </string>
+<key>マスタースプリット</key>
+    <string>MasterSplit</string>
 <key>粒チ</key>
     <string>Macro</string>
 <key>ボムへい</key>
@@ -733,7 +733,7 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:編集　　</key><string>Edit: drag to move, double tap to resize</string>
 
-<key>desc:マスタースプリット </key><string>No description yet</string>
+<key>desc:マスタースプリット</key><string>No description yet</string>
 
 <key>desc:食われる細胞を無視</key><string>No description yet</string>
 
