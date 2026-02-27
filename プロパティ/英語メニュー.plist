@@ -366,6 +366,9 @@
 <key>敵のスコア</key>
     <string>Enemy score</string>
 
+<key>細胞数</key>
+    <string>Cell Counter</string>
+
 <key>食われる細胞を無視</key>
     <string>Ignore Biggger Cells</string>
 
