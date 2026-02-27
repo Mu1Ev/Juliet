@@ -383,8 +383,8 @@
 <key>とげ</key>
     <string>Virus</string>
 
-<key>分裂できる細胞(beta)</key>
-    <string>Splittable Cells (beta)</string>
+<key>分裂できる細胞</key>
+    <string>Splittable Cells</string>
 
 <key>分裂色を選択</key>
     <string>Select Splittable Color</string>
@@ -745,7 +745,7 @@ Green (you can eat the enemy by splitting)</string>
 
 <key>desc:とげ</key><string>No description yet</string>
 
-<key>desc:分裂できる細胞(beta)</key><string>No description yet</string>
+<key>desc:分裂できる細胞</key><string>No description yet</string>
 
 <key>desc:分裂色を選択</key><string>No description yet</string>
 
