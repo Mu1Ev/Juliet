@@ -118,14 +118,14 @@
 <key>レベルアップ</key>
     <string>Level Up</string>
 
-<key>カーソル(透明)</key>
+<key>カーソル</key>
     <string>Joystick</string>
-<key>粒＆分裂(透明)</key>
+<key>粒＆分裂</key>
     <string>Split and Shoot</string>
 <key>ランキング</key>
     <string>Leaderboard</string>
 <key>ポーズ＆絵文字</key>
-    <string>Pause</string>
+    <string>Pause and Emoji</string>
 <key>スコア</key>
     <string>Score/Mass</string>
 <key>トークンカウンター</key>
@@ -258,6 +258,9 @@
 <key>カーソルサイズ</key>
     <string>Joystick Size</string>
 
+<key>アニメーション</key>
+    <string>Disable Animations</string>
+    
 <key>ニックネーム</key>
     <string>Nickname Input Assistant</string>
 
