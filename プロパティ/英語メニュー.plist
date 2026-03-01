@@ -178,7 +178,7 @@
 <key>ポーズボタン</key>
     <string>Pause Button</string>
 <key>自動再プレイ</key>
-    <string>AutoReplay</string>
+    <string>Auto Respawn</string>
 
 <key>タップ回数</key>
     <string>Tap Count</string>
