@@ -159,6 +159,9 @@
 <key>不透明カーソル</key>
     <string>Opaque Joystick</string>
 
+<key>セルアニメーション無効</key>
+    <string>Disable Cell Anim</string>
+
 <key>ジョイントアリーナ</key>
     <string>Joining Arena</string>
 
