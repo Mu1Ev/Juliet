@@ -219,7 +219,7 @@
     <string>Left ←</string>
 
 <key>パーティー</key>
-    <string>Party Code</string>
+    <string>Party</string>
 <key>矢印距離</key>
     <string>Friend Distance</string>
 <key>マスラベルサイズ</key>
@@ -389,8 +389,12 @@
 
 <key>パーティー </key>
     <string>Party </string>
+
 <key>鯖警告</key>
     <string>Mode Alert</string>
+
+<key>ステート</key>
+    <string>State</string>
 
 <key>とげ</key>
     <string>Virus</string>
