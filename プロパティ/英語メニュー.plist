@@ -12,10 +12,6 @@
 
     <string>Main</string>
 
-    <key>ボット</key>
-
-    <string>( ´･･)ﾉ(._.`)</string>
-
     <key>非表示</key>
 
     <string>Hidden</string>
@@ -28,13 +24,13 @@
 
     <string>Buttons</string>
 
-    <key>あ</key>
-
-    <string>a</string>
-
     <key>その他</key>
 
     <string>Others</string>
+
+    <key>メニュー設定</key>
+
+    <string>Menu Settings</string>
 
     <key>メインメニュー</key>
 
