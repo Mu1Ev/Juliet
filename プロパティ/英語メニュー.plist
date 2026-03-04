@@ -278,7 +278,7 @@
 
     <string>Pause Button</string>
 
-    <key>自動再プレイ</key>
+    <key>自動リスポーン</key>
 
     <string>Auto Respawn</string>
 
@@ -433,6 +433,10 @@
     <key>粘着ボタン</key>
 
     <string>Track Button</string>
+
+    <key>鯖内のみボタンを表示</key>
+
+    <string>Show button only arena</string>
 
     <key>マスタースプリットボタン</key>
 
