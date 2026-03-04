@@ -224,11 +224,9 @@
 
     <string>Loop Settings</string>
 
-    <key>鯖の背景変更</key>
+    <key>鯖の背景</key>
 
     <string>Arena Background</string>
-
-    <key>鯖の背景透明度</key>
 
     <string>Arena Background Opacity</string>
 
@@ -259,6 +257,10 @@
     <key>壁線</key>
 
     <string>Arena Outline</string>
+
+    <key>棘色</key>
+
+    <string>Virus Color</string>
 
     <key>棘透かし</key>
 
@@ -548,6 +550,22 @@
 
     <string>CenterTap Show Range</string>
 
+    <key>視野</key>
+
+    <string>Zoom</string>
+
+    <key>固定視野チ</key>
+
+    <string>Stable Zoom</string>
+
+    <key>分裂視野チ</key>
+
+    <string>Dynamic Zoom</string>
+
+    <key>プラスマイナス</key>
+
+    <string>Zoom UI</string>
+
     <key>敵のスコア</key>
 
     <string>Enemy score</string>
@@ -727,6 +745,10 @@
     <key>desc:絵文字</key>
 
     <string>Hide Emoji</string>
+
+    <key>desc:絵文字(パーティー外のみ)</key>
+
+    <string>Hide Emoji(Outside Party Only)</string>
 
     <key>desc:害悪文字</key>
 
@@ -1266,3 +1288,4 @@ Green (you can eat the enemy by splitting)</string>
 
 </dict>
 </plist>
+
