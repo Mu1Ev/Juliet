@@ -94,7 +94,7 @@
 
     <key>メインメニューへ戻る</key>
 
-    <string>Main Menu</string>
+    <string>Exit To Main Menu</string>
 
     <key>ランキング修正</key>
 
@@ -481,6 +481,10 @@
     <key>地域変更</key>
 
     <string>Change Region</string>
+
+    <key>リラックス</key>
+
+    <string>Relax</string>
 
     <key>ぷーぷ</key>
 
