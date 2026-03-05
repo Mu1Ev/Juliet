@@ -148,6 +148,9 @@
     <key>ニックネーム</key>
     <string>Nickname Input Assistant</string>
 
+    <key>その他バースト入れ替え</key>
+    <string>More to Burst</string>
+
     <key>フォント変更</key>
     <string>Change Font</string>
 
@@ -554,6 +557,9 @@
     <string>Hide Guest Join Dropdown</string>
 
     <key>desc:ニックネーム</key>
+    <string>No description yet</string>
+
+    <key>その他バースト入れ替え</key>
     <string>No description yet</string>
 
     <key>desc:フォント変更</key>
