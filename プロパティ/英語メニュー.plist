@@ -94,6 +94,9 @@
     <key>害悪文字</key>
     <string>Problematic Nickname</string>
 
+    <key>ペレット</key>
+    <string>Pellets</string>
+
     <key>ミステリースキン</key>
     <string>Mystery Skins</string>
 
@@ -379,6 +382,9 @@
     <key>粒チボタン</key>
     <string>Macro Button</string>
 
+    <key>ボムへいボタン</key>
+    <string>Bob-omb Button</string>
+
     <key>再接続</key>
     <string>Reconnect</string>
 
@@ -489,6 +495,9 @@
 
     <key>desc:害悪文字</key>
     <string>Hides the black “＋” on nicknames</string>
+
+    <key>desc:ペレット</key>
+    <string>No description yet</string>
 
     <key>desc:ミステリースキン</key>
     <string>No description yet</string>
@@ -783,6 +792,9 @@ Green (you can eat the enemy by splitting)</string>
     <string>No description yet</string>
 
     <key>desc:粒チボタン</key>
+    <string>No description yet</string>
+
+    <key>desc:ボムへいボタン</key>
     <string>No description yet</string>
 
     <key>desc:再接続</key>
