@@ -73,6 +73,12 @@
     <key>メニュー設定</key>
     <string>Menu Settings</string>
 
+    <key>メニュー透明度</key>
+    <string>Menu Opacity</string>
+
+    <key>カラムメニュー</key>
+    <string>Column Menu</string>
+
     <key>白枠</key>
     <string>White Outline</string>
 
