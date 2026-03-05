@@ -187,6 +187,12 @@
     <key>分裂視野チ</key>
     <string>Dynamic Zoom</string>
 
+    <key>固定広がり方</key>
+    <string>Stable Spread Intensity</string>
+
+    <key>分裂広がり方</key>
+    <string>Dynamic Spread Intensity</string>
+
     <key>プラスマイナス</key>
     <string>Zoom UI</string>
 
@@ -590,6 +596,12 @@
     <string>No description yet</string>
 
     <key>desc:分裂視野チ</key>
+    <string>No description yet</string>
+
+    <key>desc:固定広がり方</key>
+    <string>No description yet</string>
+
+    <key>desc:分裂広がり方</key>
     <string>No description yet</string>
 
     <key>desc:プラスマイナス</key>
