@@ -142,6 +142,9 @@
     <key>フォント変更</key>
     <string>Change Font</string>
 
+    <key>UIサイズ</key>
+    <string>Ingame UI Size</string>
+
     <key>鯖警告</key>
     <string>Mode Alert</string>
 
@@ -163,8 +166,20 @@
     <key>ポーズタップ自己チャ</key>
     <string>Pause To Self Feed</string>
 
+    <key>中央タップ範囲設定</key>
+    <string>CenterTap Set Range</string>
+
     <key>中央タップ範囲確認</key>
     <string>CenterTap Show Range</string>
+
+    <key>固定視野チ</key>
+    <string>Stable Zoom</string>
+
+    <key>分裂視野チ</key>
+    <string>Dynamic Zoom</string>
+
+    <key>プラスマイナス</key>
+    <string>Zoom UI</string>
 
     <key>クイック退出ボタン</key>
     <string>Quick Leave Button</string>
@@ -247,6 +262,15 @@
     <key>カスタムラベル編集</key>
     <string>Edit Label</string>
 
+    <key>分裂サイズ</key>
+    <string>Split Size</string>
+
+    <key>粒サイズ</key>
+    <string>Shoot Size</string>
+
+    <key>カーソルサイズ</key>
+    <string>Joystick Size</string>
+
     <key>鯖の背景</key>
     <string>Arena Background</string>
 
@@ -285,6 +309,9 @@
 
     <key>棘透かし</key>
     <string>Virus Opacity</string>
+
+    <key>壁線</key>
+    <string>Arena Outline</string>
 
     <key>強制カンスト</key>
     <string>Force Max Out</string>
@@ -334,11 +361,17 @@
     <key>直線移動カーソルボタン</key>
     <string>LINESPLIT Joystick Button</string>
 
+    <key>マスタースプリット</key>
+    <string>MasterSplit</string>
+
     <key>マスタースプリットボタン</key>
     <string>MasterSplit Button</string>
 
+    <key>粒チ</key>
+    <string>Macro</string>
+
     <key>粒チボタン</key>
-    <string>Macro Button </string>
+    <string>Macro Button</string>
 
     <key>再接続</key>
     <string>Reconnect</string>
@@ -505,6 +538,9 @@
     <key>desc:フォント変更</key>
     <string>No description yet</string>
 
+    <key>UIサイズ</key>
+    <string>No description yet</string>
+
     <key>desc:鯖警告</key>
     <string>Alert when joining a different mode</string>
 
@@ -526,7 +562,22 @@
     <key>desc:ポーズタップ自己チャ</key>
     <string>No description yet</string>
 
+    <key>desc:中央タップ範囲設定</key>
+    <string>No description yet</string>
+
+    <key>desc:中央タップ範囲</key>
+    <string>No description yet</string>
+
     <key>desc:中央タップ範囲確認</key>
+    <string>No description yet</string>
+
+    <key>desc:固定視野チ</key>
+    <string>No description yet</string>
+
+    <key>desc:分裂視野チ</key>
+    <string>No description yet</string>
+
+    <key>desc:プラスマイナス</key>
     <string>No description yet</string>
 
     <key>desc:クイック退出ボタン</key>
@@ -613,6 +664,15 @@
     <key>desc:カスタムラベル編集</key>
     <string>No description yet</string>
 
+    <key>desc:分裂サイズ</key>
+    <string>No description yet</string>
+
+    <key>desc:粒サイズ</key>
+    <string>No description yet</string>
+
+    <key>desc:カーソルサイズ</key>
+    <string>No description yet</string>
+
     <key>desc:分裂できる細胞</key>
     <string>No description yet</string>
 
@@ -653,7 +713,10 @@ Green (you can eat the enemy by splitting)</string>
     <key>desc:棘透かし</key>
     <string>No description yet</string>
 
-    <key>強制カンスト</key>
+    <key>desc:壁線</key>
+    <string>No description yet</string>
+
+    <key>desc:強制カンスト</key>
     <string>No description yet</string>
 
     <key>desc:棘色</key>
@@ -704,7 +767,13 @@ Green (you can eat the enemy by splitting)</string>
     <key>desc:直線移動カーソルボタン</key>
     <string>No description yet</string>
 
+    <key>desc:マスタースプリット</key>
+    <string>No description yet</string>
+
     <key>desc:マスタースプリットボタン</key>
+    <string>No description yet</string>
+
+    <key>desc:粒チ</key>
     <string>No description yet</string>
 
     <key>desc:粒チボタン</key>
@@ -728,13 +797,13 @@ Green (you can eat the enemy by splitting)</string>
     <key>desc:分裂色を選択</key>
     <string>No description yet</string>
 
-    <key>タップ回数: 1</key>
+    <key>desc:タップ回数: 1</key>
     <string>No description yet</string>
 
-    <key>タップ回数: 2</key>
+    <key>desc:タップ回数: 2</key>
     <string>No description yet</string>
 
-    <key>タップ回数: 3</key>
+    <key>desc:タップ回数: 3</key>
     <string>No description yet</string>
 
     <key>desc:メインページへ戻る</key>
