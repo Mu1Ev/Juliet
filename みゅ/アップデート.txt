@@ -1,4 +1,4 @@
-yes
+no
 https://app.mediafire.com/folder/w9n4pf7gkmk9w
 2026/03/01
 - メインメニューへ戻る修正\n
