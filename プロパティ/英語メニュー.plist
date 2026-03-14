@@ -163,11 +163,23 @@
     <key>鯖警告</key>
     <string>Mode Alert</string>
 
+    <key>全スキン解放oz</key>
+    <string>All Skins</string>
+
     <key>トークン保存</key>
     <string>Copy Token</string>
 
     <key>トークンログイン</key>
     <string>Login with Token</string>
+
+    <key>アカウント保存</key>
+    <string>Saved Accounts</string>
+
+    <key>アイコン変更</key>
+    <string>Change PFP</string>
+
+    <key>アカウントリスト</key>
+    <string>Accounts List</string>
 
     <key>スクロールバー</key>
     <string>Scroll Bar</string>
@@ -187,7 +199,10 @@
     <key>ポーズタップ自己チャ</key>
     <string>Pause To Self Feed</string>
 
-    <key>止まったら自己チャ</key>
+    <key>自己チャボタン</key>
+    <string>Self Feed Button</string>
+
+    <key>指を離したら自己チャ</key>
     <string>Self Feed on Release</string>
 
     <key>中央タップ範囲設定</key>
@@ -207,6 +222,9 @@
 
     <key>分裂広がり方</key>
     <string>Dynamic Spread Intensity</string>
+
+    <key>±一回で広がる視野</key>
+    <string>Zoom Step</string>
 
     <key>プラスマイナス</key>
     <string>Zoom UI</string>
@@ -229,7 +247,7 @@
     <key>カーソル非表示</key>
     <string>Hide Joystick Button</string>
 
-    <key>色丸非表示</key>
+    <key>移動ボタン非表示</key>
     <string>Hide Move Button</string>
 
     <key>ループ</key>
@@ -328,6 +346,9 @@
     <key>セルアニメーション無効</key>
     <string>Disable Cell Anim</string>
 
+    <key>フォースアニメーション</key>
+    <string>Force Animations</string>
+
     <key>ジョイントアリーナ</key>
     <string>Joining Arena</string>
 
@@ -337,17 +358,26 @@
     <key>棘色</key>
     <string>Virus Color</string>
 
+    <key>ゲームスピード</key>
+    <string>Game Speed</string>
+
     <key>棘透かし</key>
     <string>Virus Opacity</string>
 
     <key>壁線</key>
     <string>Arena Outline</string>
 
+    <key>エイムライン</key>
+    <string>Aim Line</string>
+
     <key>強制カンスト</key>
     <string>Force Max Out</string>
 
     <key>プラスマイナス</key>
     <string>Zoom UI</string>
+
+    <key>絵文字お気に入り</key>
+    <string>Emoji Favorites</string>
 
     <key>2カラムメニュー</key>
     <string>Column Menu</string>
@@ -388,11 +418,20 @@
     <key>メニューアイコン</key>
     <string>Menu Icon</string>
 
+    <key>メニューアイコン </key>
+    <string>Menu Icon </string>
+
     <key>直線移動カーソルボタン</key>
     <string>LINESPLIT Joystick Button</string>
 
     <key>マスタースプリット</key>
     <string>MasterSplit</string>
+
+    <key>2回目ディレイ</key>
+    <string>Split delay 2</string>
+
+    <key>3回目ディレイ</key>
+    <string>Split delay 3</string>
 
     <key>マスタースプリットボタン</key>
     <string>MasterSplit Button</string>
