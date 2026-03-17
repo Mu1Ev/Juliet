@@ -344,7 +344,7 @@
     <string>Plus</string>
 
     <key>セルアニメーション無効</key>
-    <string>Disable Cell Anim</string>
+    <string>Disable Cell Animations</string>
 
     <key>フォースアニメーション</key>
     <string>Force Animations</string>
@@ -370,6 +370,9 @@
     <key>エイムライン</key>
     <string>Aim Line</string>
 
+    <key>アニメーション</key>
+    <string>Animations</string>
+
     <key>強制カンスト</key>
     <string>Force Max Out</string>
 
@@ -391,7 +394,7 @@
     <key>ランキング修正</key>
     <string>Fix Leaderboard</string>
 
-    <key>設定の保存/読み込み</key>
+    <key>設定の保存 / 読み込み</key>
     <string>Mods Settings</string>
 
     <key>キャッシュ削除</key>
