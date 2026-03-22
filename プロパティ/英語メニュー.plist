@@ -421,8 +421,11 @@
     <key>plistを保存</key>
     <string>Export plist</string>
 
-    <key>スキンを開く</key>
-    <string>Open Skins</string>
+    <key>スキンショップ</key>
+    <string>Skins Shop</string>
+
+    <key>スキン開放</key>
+    <string>All Skins</string>
 
     <key>メニューアイコン</key>
     <string>Menu Icon</string>
@@ -615,6 +618,9 @@
 
     <key>desc:ゲスト参加</key>
     <string>Hide Guest Join Dropdown</string>
+
+    <key>desc:全通知</key>
+    <string>All Dropdowns</string>
 
     <key>desc:ニックネーム</key>
     <string>No description yet</string>
