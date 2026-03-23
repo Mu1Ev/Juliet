@@ -448,6 +448,9 @@
     <key>マスタースプリットボタン</key>
     <string>MasterSplit Button</string>
 
+    <key>120FPS</key>
+    <string>はなまるうどん</string>
+
     <key>粒チ</key>
     <string>Macro</string>
 
@@ -683,6 +686,9 @@
     <string>No description yet</string>
 
     <key>desc:自動リスポーン</key>
+    <string>No description yet</string>
+
+    <key>desc:ポーズボタン</key>
     <string>No description yet</string>
 
     <key>desc:ポーズボタン</key>
