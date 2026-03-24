@@ -100,11 +100,17 @@
     <key>ペレット</key>
     <string>Pellets</string>
 
+    <key>粒</key>
+    <string>Feed Cells</string>
+
     <key>ミステリースキン</key>
     <string>Mystery Skins</string>
 
     <key>名前スキン</key>
     <string>Name Skins</string>
+
+    <key>パーティーコード</key>
+    <string>Party Codes</string>
 
     <key>ランダムスキン</key>
     <string>Random Skins</string>
@@ -149,6 +155,9 @@
     <string>Player Joins Party</string>
 
     <key>ゲスト参加</key>
+    <string>All Dropdowns</string>
+
+    <key>全通知</key>
     <string>Guest Joins Party</string>
 
     <key>ニックネーム</key>
@@ -166,7 +175,7 @@
     <key>鯖警告</key>
     <string>Mode Alert</string>
 
-    <key>全スキン解放oz</key>
+    <key>スキン解放oz</key>
     <string>All Skins</string>
 
     <key>トークン保存</key>
