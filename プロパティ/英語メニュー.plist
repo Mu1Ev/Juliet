@@ -37,6 +37,9 @@
     <key>コントロール</key>
     <string>Controls</string>
 
+    <key>ファーム</key>
+    <string>Farms</string>
+
     <key>ボタン系</key>
     <string>Buttons</string>
 
@@ -330,6 +333,21 @@
 
     <key>カーソルサイズ</key>
     <string>Joystick Size</string>
+
+    <key>ペレット　</key>
+    <string>Pellets　</string>
+
+    <key>トークン　</key>
+    <string>Tokens　</string>
+
+    <key>粒　</key>
+    <string>FeedCells　</string>
+
+    <key>棘　</key>
+    <string>Viruses　</string>
+
+    <key>プレイヤー　</key>
+    <string>Playes　</string>
 
     <key>鯖の背景</key>
     <string>Arena Background</string>
