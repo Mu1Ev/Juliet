@@ -334,6 +334,9 @@
     <key>カーソルサイズ</key>
     <string>Joystick Size</string>
 
+    <key>自動ファーム</key>
+    <string>Auto Farm</string>
+
     <key>ペレット　</key>
     <string>Pellets　</string>
 
