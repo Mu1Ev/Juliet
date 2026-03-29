@@ -325,17 +325,38 @@
     <key>カスタムラベル編集</key>
     <string>Edit Label</string>
 
+    <key>カーソル修正</key>
+    <string>Joystick Fix</string>
+
     <key>分裂サイズ</key>
     <string>Split Size</string>
 
     <key>粒サイズ</key>
     <string>Shoot Size</string>
 
+    <key>カーソル透明度</key>
+    <string>Joystick Opacity</string>
+
+    <key>カーソル色</key>
+    <string>Joystick Color</string>
+
     <key>カーソルサイズ</key>
     <string>Joystick Size</string>
 
     <key>自動ファーム</key>
     <string>Auto Farm</string>
+
+    <key>クラシック</key>
+    <string>Classic</string>
+
+    <key>バースト</key>
+    <string>Burst</string>
+
+    <key>状態</key>
+    <string>state</string>
+
+    <key>状態</key>
+    <string>state</string>
 
     <key>ペレット　</key>
     <string>Pellets　</string>
